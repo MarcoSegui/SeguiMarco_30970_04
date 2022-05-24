@@ -1,0 +1,20 @@
+[
+    {
+        "title":"Caramelo",
+        "price":100,"thumbnail":
+        "Img1",
+        "id":1
+    },
+    {
+        "title":"Chupetin",
+        "price":200,
+        "thumbnail":"img2",
+        "id":2
+    },
+    {
+        "title":"Helado",
+        "price":300,
+        "thumbnail":"img3",
+        "id":3
+    }
+]
